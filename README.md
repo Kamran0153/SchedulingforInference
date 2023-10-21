@@ -9,3 +9,5 @@ For Generate-at-Will, Zero Wait, feature length l=1, the average inference error
 
 For periodic updating with time period=4 time slots, the average inference error is 
 = (err_inference(1,1)+ err_inference(2,1)+ err_inference(3,1)+ err_inference(4,1))/4. 
+
+Run OptimalPolicyFixedLength.m to get optimal average inference given a feature length l.
